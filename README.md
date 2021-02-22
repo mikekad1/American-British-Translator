@@ -1,3 +1,1 @@
-# Get Started!
-
-Add files and start typing 🎉
+# [Quality Assurance Projects - American / British Translator](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/american-british-translator)
